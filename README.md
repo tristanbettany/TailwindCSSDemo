@@ -8,7 +8,7 @@ no bells and whistles or extra customisation steps, just simply a setup to get s
 I recommend though customising the tailwind config file to setup your own preferences for things 
 like spacing, fonts, breakpoints, and colors.
 
-You can also add in the usuage of webpack for example to compile JS aswell. This example only
+You can also add in the usage of webpack for example to compile JS as well. This example only
 shows how to compile tailwind.
 
 Bear in mind that tailwind uses PostCSS :)
